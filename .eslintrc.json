@@ -14,7 +14,9 @@
     "rules": {
         "linebreak-style":"off",
         "no-console":"off",
-        "no-underscore-dangle":"off"
+        "no-underscore-dangle":"off",
+        "no-restricted-globals":"off",
+        "max-len":"off"
     }
     
 }
